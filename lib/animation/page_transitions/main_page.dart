@@ -3,8 +3,6 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_animation/animation/page_transitions/custum_page_transition.dart';
 import 'package:flutter_animation/animation/page_transitions/sub_page.dart';
-import 'package:flutter_animations_0/animations/page_transitions/custum_page_transition.dart';
-import 'package:flutter_animations_0/animations/page_transitions/sub_page.dart';
 
 class SplashAnimationMainPage extends StatefulWidget {
   const SplashAnimationMainPage({super.key});
